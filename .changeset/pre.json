@@ -464,6 +464,7 @@
     "rename-set-attributes",
     "repair-ui-message-stream-framing",
     "replay-consumed-event-clock",
+    "replay-cost-telemetry",
     "replay-divergence-redelivery",
     "replay-lineage-execution-context",
     "replay-timeout-excludes-step-bodies",

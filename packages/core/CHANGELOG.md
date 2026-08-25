@@ -1,5 +1,11 @@
 # @workflow/core
 
+## 5.0.0-beta.45
+
+### Patch Changes
+
+- [#3490](https://github.com/vercel/workflow/pull/3490) [`f7fb012`](https://github.com/vercel/workflow/commit/f7fb0126528fac2168492c3143fe0379b6f5ef1a) Thanks [@shalabhc](https://github.com/shalabhc)! - Report replay cost for every step-to-step transition, not just a run's first step, and flag whether a retained VM served the batch
+
 ## 5.0.0-beta.44
 
 ### Minor Changes
